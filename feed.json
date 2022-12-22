@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Technik",
+    "description": "",
+    "home_page_url": "https://pschur.github.io/blog",
+    "feed_url": "https://pschur.github.io/blog/feed.json",
+    "user_comment": "",
+    "icon": "https://pschur.github.io/blog/media/website/command-line-2.png",
+    "author": {
+        "name": "Paul Schur"
+    },
+    "items": [
+    ]
+}

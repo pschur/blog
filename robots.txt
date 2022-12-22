@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pschur.github.io/blog/sitemap.xml
